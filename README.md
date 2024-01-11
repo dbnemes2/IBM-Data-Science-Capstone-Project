@@ -1,6 +1,6 @@
 # IBM Data Science Capstone Project
 
-Contained within this repository is the final project for the IBM Applied Data Science Capstone. The full presentation of the work can be found in the pdf presentation.
+Contained within this repository is the final project for the IBM Applied Data Science Capstone. The full presentation of the work can be found in the pdf presentation: [capstone_presentation.pdf](capstone_presentation.pdf).
 This readme serves as a concise summary of the steps taken during this work.
 
 ## Data Collection
